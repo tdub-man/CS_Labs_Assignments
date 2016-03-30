@@ -1,0 +1,159 @@
+=====================================================================================
+CirclesPane Class
+=====================================================================================
+
+import javafx.scene.layout.Pane;
+import javafx.scene.paint.Color;
+import javafx.scene.shape.Circle;
+import javafx.scene.shape.Line;
+import javafx.scene.text.Text;
+
+/**
+ * Created by tanner on 3/7/16.
+ */
+public class CirclesPane extends Pane {
+    private Circle circA = new Circle(100,150,15);   // Shown circle
+    private Circle noCircA = new Circle(100,150,15); // Clicked circle, tied to circA
+    private Circle circB = new Circle(200,150,15);   // Shown circle
+    private Circle noCircB = new Circle(200,150,15); // Clicked Circle, tied to circB
+    private Line distLine = new Line(100,150,200,150);
+    private Text dist = new Text("100.000");
+
+    public CirclesPane() {
+        this.getChildren().add(distLine);
+        this.getChildren().addAll(circA, circB);
+        this.getChildren().add(dist);
+        this.getChildren().addAll(noCircA,noCircB); // Placed above everything else
+        distLine.setStroke(Color.YELLOW);
+        this.dist.setX(this.getDistMidPoint()[0]);
+        this.dist.setY(this.getDistMidPoint()[1]);
+        this.dist.setFill(Color.WHITE);
+        circA.setFill(Color.web("0x00FF0040"));
+        circB.setFill(Color.web("0x0000FF40"));
+        noCircA.setFill(Color.web("0x00000000"));
+        noCircB.setFill(Color.web("0x00000000"));
+    }
+
+    public Circle getCircA() {
+        return noCircA;
+    }
+    public Circle getCircB() {
+        return noCircB;
+    }
+
+    private double getDistance() {
+        double xsqr = Math.pow(this.distLine.getStartX()-this.distLine.getEndX(),2);
+        double ysqr = Math.pow(this.distLine.getStartY()-this.distLine.getEndY(),2);
+        return Math.sqrt(xsqr + ysqr);
+    }
+    private double[] getDistMidPoint() {
+        double[] mid = new double[2];
+        mid[0] = (this.distLine.getStartX()+this.distLine.getEndX())/2;
+        mid[1] = (this.distLine.getStartY()+this.distLine.getEndY())/2;
+
+        return mid;
+    }
+    public void moveCircA(double x, double y) {
+        this.noCircA.setCenterX(x);
+        this.noCircA.setCenterY(y);
+        this.circA.setCenterX(x);
+        this.circA.setCenterY(y);
+        this.distLine.setStartX(x);
+        this.distLine.setStartY(y);
+        this.dist.setX(getDistMidPoint()[0]);
+        this.dist.setY(getDistMidPoint()[1]);
+        this.dist.setText(String.format("%.3f", this.getDistance()));
+    }
+    public void moveCircB(double x, double y) {
+        this.noCircB.setCenterX(x);
+        this.noCircB.setCenterY(y);
+        this.circB.setCenterX(x);
+        this.circB.setCenterY(y);
+        this.distLine.setEndX(x);
+        this.distLine.setEndY(y);
+        this.dist.setX(getDistMidPoint()[0]);
+        this.dist.setY(getDistMidPoint()[1]);
+        this.dist.setText(String.format("%.3f", this.getDistance()));
+    }
+}
+
+=====================================================================================
+CirclesAndLine Class
+=====================================================================================
+
+import javafx.application.Application;
+import javafx.scene.Scene;
+import javafx.scene.paint.Color;
+import javafx.stage.Stage;
+
+/**
+ * Created by tanner on 3/7/16.
+ */
+public class CirclesAndLine extends Application {
+    @Override
+    public void start (Stage primaryStage) {
+        CirclesPane cp = new CirclesPane();
+        // Holds the difference between
+        // mouse coordinates and circle center coordinates
+        double[] mouseCDif = new double[2];
+
+        Scene scene = new Scene(cp);
+        scene.setFill(Color.web("444444FF"));
+
+        // Setup circle dragging
+        // Constrain circle movement to the scene
+        // Constraint works best with maximized window
+        handleEvents(cp,mouseCDif,scene);
+
+        primaryStage.setScene(scene);
+        primaryStage.setMinWidth(300);
+        primaryStage.setMinHeight(300);
+        primaryStage.setTitle("Two Vertices");
+        primaryStage.show();
+    }
+
+    private void handleEvents(CirclesPane cp,double[] mouseCDif,Scene scene) {
+        cp.getCircA().setOnMousePressed(me -> {
+            mouseCDif[0] = cp.getCircA().getCenterX() - me.getSceneX();
+            mouseCDif[1] = cp.getCircA().getCenterY() - me.getSceneY();
+        });
+        cp.getCircA().setOnMouseDragged(me -> {
+            double[] point = {me.getSceneX()+mouseCDif[0],me.getSceneY()+mouseCDif[1]};
+            if(point[0] < scene.getX()+cp.getCircA().getRadius()) {
+                point[0] = cp.getCircA().getRadius();
+            }
+            if(point[0] > scene.getWidth()-cp.getCircA().getRadius()) {
+                point[0] = scene.getWidth()-cp.getCircA().getRadius();
+            }
+            if(point[1] < scene.getY()+cp.getCircA().getRadius()) {
+                point[1] = scene.getY()+cp.getCircA().getRadius();
+            }
+            if(point[1] > scene.getHeight()-cp.getCircA().getRadius()) {
+                point[1] = scene.getHeight()-cp.getCircA().getRadius();
+            }
+            cp.moveCircA(point[0],point[1]);
+        });
+        cp.getCircB().setOnMousePressed(me -> {
+            mouseCDif[0] = cp.getCircB().getCenterX() - me.getSceneX();
+            mouseCDif[1] = cp.getCircB().getCenterY() - me.getSceneY();
+        });
+        cp.getCircB().setOnMouseDragged(me -> {
+            double[] point = {me.getSceneX()+mouseCDif[0],me.getSceneY()+mouseCDif[1]};
+            if(point[0] < scene.getX()+cp.getCircB().getRadius()) {
+                point[0] = cp.getCircB().getRadius();
+            }
+            if(point[0] > scene.getWidth()-cp.getCircB().getRadius()) {
+                point[0] = scene.getWidth()-cp.getCircB().getRadius();
+            }
+            if(point[1] < scene.getY()+cp.getCircB().getRadius()) {
+                point[1] = scene.getY()+cp.getCircB().getRadius();
+            }
+            if(point[1] > scene.getHeight()-cp.getCircB().getRadius()) {
+                point[1] = scene.getHeight()-cp.getCircB().getRadius();
+            }
+            cp.moveCircB(point[0],point[1]);
+        });
+    }
+}
+
+=====================================================================================

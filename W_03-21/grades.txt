@@ -1,0 +1,6 @@
+Deirdre     70  62
+Florence    37  90
+Chris       60  68
+Aaron       53  80
+Elmer       91  40
+Betty       79  50

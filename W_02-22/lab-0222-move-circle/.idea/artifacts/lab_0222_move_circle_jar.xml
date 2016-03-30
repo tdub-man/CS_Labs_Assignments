@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="lab-0222-move-circle:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/lab_0222_move_circle_jar</output-path>
+    <root id="archive" name="lab-0222-move-circle.jar">
+      <element id="module-output" name="lab-0222-move-circle" />
+    </root>
+  </artifact>
+</component>
