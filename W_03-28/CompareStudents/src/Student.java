@@ -30,8 +30,7 @@ public class Student implements Comparable<Student> {
         return this.getName().compareTo(s.getName());
     }
 
-    public static Comparator<Student> compareScore1 = (Student a, Student b) -> a.getScore1()-b.getScore1();;
-    public static Comparator<Student> compareScore2 = (Student a, Student b) -> a.getScore2()-b.getScore2();;
-    public static Comparator<Student> compareBothScores = (Student a, Student b) -> (a.getScore1()+a.getScore2())-(b.getScore1()+b.getScore2());;
-
+    public static Comparator<Student> compareScore1 = (Student a, Student b) -> a.getScore1()-b.getScore1();
+    public static Comparator<Student> compareScore2 = (Student a, Student b) -> a.getScore2()-b.getScore2();
+    public static Comparator<Student> compareBothScores = (Student a, Student b) -> (a.getScore1()+a.getScore2())-(b.getScore1()+b.getScore2());
 }
