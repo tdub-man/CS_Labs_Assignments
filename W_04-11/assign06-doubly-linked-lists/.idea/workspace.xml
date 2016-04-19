@@ -1,51 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e23843f-3a1e-4d5b-bd38-5dced2406631" name="Default" comment="">
+    <list default="true" id="37738644-a611-49d3-886f-15673b1a85f0" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assign06-doubly-linked-lists.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assign06-doubly-linked-lists/out/production/assign06-doubly-linked-lists/lists/DList.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assign06-doubly-linked-lists/out/production/assign06-doubly-linked-lists/lists/DListG$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assign06-doubly-linked-lists/out/production/assign06-doubly-linked-lists/lists/DListG$Node.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assign06-doubly-linked-lists/out/production/assign06-doubly-linked-lists/lists/DListG.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assign06-doubly-linked-lists/out/production/assign06-doubly-linked-lists/lists/DListV1$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assign06-doubly-linked-lists/out/production/assign06-doubly-linked-lists/lists/DListV1$DListIterator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assign06-doubly-linked-lists/out/production/assign06-doubly-linked-lists/lists/DListV1$Node.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assign06-doubly-linked-lists/out/production/assign06-doubly-linked-lists/lists/DListV1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assign06-doubly-linked-lists/out/production/assign06-doubly-linked-lists/lists/DListV2$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assign06-doubly-linked-lists/out/production/assign06-doubly-linked-lists/lists/DListV2$Node.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assign06-doubly-linked-lists/out/production/assign06-doubly-linked-lists/lists/DListV2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assign06-doubly-linked-lists/out/production/assign06-doubly-linked-lists/lists/Node.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assign06-doubly-linked-lists/out/production/assign06-doubly-linked-lists/lists/test/AllTests.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assign06-doubly-linked-lists/out/production/assign06-doubly-linked-lists/lists/test/Preliminary.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assign06-doubly-linked-lists/out/production/assign06-doubly-linked-lists/lists/test/Test01Constructor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assign06-doubly-linked-lists/out/production/assign06-doubly-linked-lists/lists/test/Test02AddAndGet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assign06-doubly-linked-lists/out/production/assign06-doubly-linked-lists/lists/test/Test03AddAndGet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assign06-doubly-linked-lists/out/production/assign06-doubly-linked-lists/lists/test/Test04Size.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assign06-doubly-linked-lists/out/production/assign06-doubly-linked-lists/lists/test/Test05Equals.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assign06-doubly-linked-lists/out/production/assign06-doubly-linked-lists/lists/test/TestAddAndGet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assign06-doubly-linked-lists/out/production/assign06-doubly-linked-lists/lists/test/TestConstructor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assign06-doubly-linked-lists/out/production/assign06-doubly-linked-lists/lists/test/Tests.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assign06-doubly-linked-lists/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assign06-doubly-linked-lists/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assign06-doubly-linked-lists/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assign06-doubly-linked-lists/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assign06-doubly-linked-lists/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assign06-doubly-linked-lists/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assign06-doubly-linked-lists/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assign06-doubly-linked-lists/assign06-doubly-linked-lists.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assign06-doubly-linked-lists/src/lists/DList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assign06-doubly-linked-lists/src/lists/Node.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assign06-doubly-linked-lists/src/lists/test/AllTests.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assign06-doubly-linked-lists/src/lists/test/Test01Constructor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assign06-doubly-linked-lists/src/lists/test/Test02AddAndGet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assign06-doubly-linked-lists/src/lists/test/Test03AddAndGet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assign06-doubly-linked-lists/src/lists/test/Test04Size.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assign06-doubly-linked-lists/src/lists/test/Test05Equals.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assign06-doubly-linked-lists/src/lists/test/Tests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/assign06-doubly-linked-lists/lists/DList.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/assign06-doubly-linked-lists/lists/DListG$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/assign06-doubly-linked-lists/lists/DListG$Node.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/assign06-doubly-linked-lists/lists/DListG.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/assign06-doubly-linked-lists/lists/DListV1$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/assign06-doubly-linked-lists/lists/DListV1$DListIterator.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/assign06-doubly-linked-lists/lists/DListV1$Node.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/assign06-doubly-linked-lists/lists/DListV1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/assign06-doubly-linked-lists/lists/DListV2$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/assign06-doubly-linked-lists/lists/DListV2$Node.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/assign06-doubly-linked-lists/lists/DListV2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/assign06-doubly-linked-lists/lists/Node.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/assign06-doubly-linked-lists/lists/test/AllTests.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/assign06-doubly-linked-lists/lists/test/Preliminary.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/assign06-doubly-linked-lists/lists/test/Test01Constructor.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/assign06-doubly-linked-lists/lists/test/Test02AddAndGet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/assign06-doubly-linked-lists/lists/test/Test03AddAndGet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/assign06-doubly-linked-lists/lists/test/Test04Size.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/assign06-doubly-linked-lists/lists/test/Test05Equals.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/assign06-doubly-linked-lists/lists/test/TestAddAndGet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/assign06-doubly-linked-lists/lists/test/TestConstructor.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/assign06-doubly-linked-lists/lists/test/Tests.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assign06-doubly-linked-lists.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lists/DList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lists/Node.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lists/test/AllTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lists/test/Test01Constructor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lists/test/Test02AddAndGet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lists/test/Test03AddAndGet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lists/test/Test04Size.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lists/test/Test05Equals.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lists/test/Tests.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../W_03-28/CompareStudents/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../W_03-28/CompareStudents/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../lab-160411-linked-list/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../lab-160411-linked-list/.idea/workspace.xml" />
     </list>
-    <ignored path="lab-160411-linked-list.iws" />
+    <ignored path="assign06-doubly-linked-lists.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -61,62 +61,39 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="lab-160411-linked-list" />
+    <favorites_list name="assign06-doubly-linked-lists" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
       <file leaf-file-name="Node.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cs1302/linkedList/Node.java">
+        <entry file="file://$PROJECT_DIR$/src/lists/Node.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+            <state relative-caret-position="378">
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding>
-                <element signature="e#381#382#0" expanded="false" />
-                <element signature="e#412#413#0" expanded="false" />
-                <element signature="method#Node#2;class#Node#0" expanded="false" />
-                <element signature="e#470#471#0" expanded="false" />
-                <element signature="e#497#498#0" expanded="false" />
-                <element signature="e#537#538#0" expanded="false" />
-                <element signature="e#569#570#0" expanded="false" />
-                <element signature="e#598#599#0" expanded="false" />
-                <element signature="e#625#626#0" expanded="false" />
-                <element signature="e#663#664#0" expanded="false" />
-                <element signature="e#695#696#0" expanded="false" />
+                <element signature="method#Node#0;class#Node#0" expanded="false" />
+                <element signature="e#192#193#0" expanded="true" />
+                <element signature="e#224#225#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestNode.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cs1302/linkedList/TestNode.java">
+      <file leaf-file-name="DList.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lists/DList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-378">
-              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-              <folding>
-                <element signature="method#getNode#0;class#TestNode#0" expanded="false" />
-                <element signature="method#removeNode#0;class#TestNode#0" expanded="false" />
-                <element signature="method#cloneList#0;class#TestNode#0" expanded="false" />
-                <element signature="method#findListSize#0;class#TestNode#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Toolkit.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cs1302/linkedList/Toolkit.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+            <state relative-caret-position="1962">
+              <caret line="181" column="9" selection-start-line="181" selection-start-column="9" selection-end-line="181" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestToolkit.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/cs1302/linkedList/TestToolkit.java">
+      <file leaf-file-name="TestDList.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/lists/TestDList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1809">
-              <caret line="67" column="35" selection-start-line="67" selection-start-column="35" selection-end-line="67" selection-end-column="35" />
+            <state relative-caret-position="126">
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -142,16 +119,33 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/cs1302/linkedList/TestNode.java" />
-        <option value="$PROJECT_DIR$/src/cs1302/linkedList/TestToolkit.java" />
+        <option value="$PROJECT_DIR$/src/lists/Node.java" />
+        <option value="$PROJECT_DIR$/src/lists/DList.java" />
+        <option value="$PROJECT_DIR$/src/lists/TestDList.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="72" />
-    <option name="y" value="-5" />
-    <option name="width" value="1849" />
-    <option name="height" value="1086" />
+    <option name="x" value="73" />
+    <option name="y" value="27" />
+    <option name="width" value="1847" />
+    <option name="height" value="1053" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -178,13 +172,14 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="lab-160411-linked-list" />
+              <option name="myItemId" value="assign06-doubly-linked-lists" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -194,21 +189,21 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="lab-160411-linked-list" />
+              <option name="myItemId" value="assign06-doubly-linked-lists" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="lab-160411-linked-list" />
+              <option name="myItemId" value="assign06-doubly-linked-lists" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="lab-160411-linked-list" />
+              <option name="myItemId" value="assign06-doubly-linked-lists" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="lab-160411-linked-list" />
+              <option name="myItemId" value="assign06-doubly-linked-lists" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -216,13 +211,34 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="linkedList" />
+              <option name="myItemId" value="lists" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assign06-doubly-linked-lists" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assign06-doubly-linked-lists" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lists" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -230,18 +246,70 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$APPLICATION_HOME_DIR$/lib/hamcrest-core-1.3.jar!/" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.TestNode">
-    <configuration default="false" name="TestNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.TestDList">
+    <configuration default="false" name="Test02AddAndGet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="cs1302.linkedList.*" />
+          <option name="PATTERN" value="lists.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="cs1302.linkedList.TestNode" />
+      <module name="assign06-doubly-linked-lists" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="lists.test" />
+      <option name="MAIN_CLASS_NAME" value="lists.test.Test02AddAndGet" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="Test02AddAndGet.testOneElement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="lists.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="assign06-doubly-linked-lists" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="lists.test" />
+      <option name="MAIN_CLASS_NAME" value="lists.test.Test02AddAndGet" />
+      <option name="METHOD_NAME" value="testOneElement" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestDList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="lists.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="lists.TestDList" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -250,28 +318,60 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="lab-160411-linked-list" />
+      <module name="assign06-doubly-linked-lists" />
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="TestToolkit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Test02AddAndGet.testManyElements" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="cs1302.linkedList.*" />
+          <option name="PATTERN" value="lists.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="cs1302.linkedList.TestToolkit" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <module name="assign06-doubly-linked-lists" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="PACKAGE_NAME" value="lists.test" />
+      <option name="MAIN_CLASS_NAME" value="lists.test.Test02AddAndGet" />
+      <option name="METHOD_NAME" value="testManyElements" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="lab-160411-linked-list" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
       <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="AllTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="lists.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="assign06-doubly-linked-lists" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="lists.test" />
+      <option name="MAIN_CLASS_NAME" value="lists.test.AllTests" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
       <method />
     </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -428,7 +528,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="lab-160411-linked-list" />
+      <module name="assign06-doubly-linked-lists" />
       <envs />
       <method />
     </configuration>
@@ -508,14 +608,20 @@
       <listeners />
       <method />
     </configuration>
-    <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="Application.TestNode" />
-      <item index="1" class="java.lang.String" itemvalue="Application.TestToolkit" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.Test02AddAndGet" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.Test02AddAndGet.testOneElement" />
+      <item index="2" class="java.lang.String" itemvalue="Application.TestDList" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.Test02AddAndGet.testManyElements" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.AllTests" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Application.TestNode" />
-        <item index="1" class="java.lang.String" itemvalue="Application.TestToolkit" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.TestDList" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.AllTests" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.Test02AddAndGet" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.Test02AddAndGet.testManyElements" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.Test02AddAndGet.testOneElement" />
       </list>
     </recent_temporary>
   </component>
@@ -527,25 +633,59 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3e23843f-3a1e-4d5b-bd38-5dced2406631" name="Default" comment="" />
-      <created>1460495654061</created>
+      <changelist id="37738644-a611-49d3-886f-15673b1a85f0" name="Default" comment="" />
+      <created>1460659853719</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1460495654061</updated>
+      <updated>1460659853719</updated>
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="AllTests - 2016.04.19 at 00h 50m 23s.xml">
+      <configuration name="AllTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test02AddAndGet - 2016.04.19 at 00h 25m 34s.xml">
+      <configuration name="Test02AddAndGet" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test02AddAndGet - 2016.04.19 at 00h 30m 03s.xml">
+      <configuration name="Test02AddAndGet" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test02AddAndGet - 2016.04.19 at 00h 50m 16s.xml">
+      <configuration name="Test02AddAndGet" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test02AddAndGet_testManyElements - 2016.04.19 at 00h 30m 13s.xml">
+      <configuration name="Test02AddAndGet.testManyElements" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test02AddAndGet_testManyElements - 2016.04.19 at 00h 50m 04s.xml">
+      <configuration name="Test02AddAndGet.testManyElements" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test02AddAndGet_testOneElement - 2016.04.19 at 00h 25m 50s.xml">
+      <configuration name="Test02AddAndGet.testOneElement" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test02AddAndGet_testOneElement - 2016.04.19 at 00h 26m 26s.xml">
+      <configuration name="Test02AddAndGet.testOneElement" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test02AddAndGet_testOneElement - 2016.04.19 at 00h 29m 54s.xml">
+      <configuration name="Test02AddAndGet.testOneElement" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test02AddAndGet_testOneElement - 2016.04.19 at 00h 50m 01s.xml">
+      <configuration name="Test02AddAndGet.testOneElement" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="72" y="-5" width="1849" height="1086" extended-state="6" />
+    <frame x="73" y="27" width="1847" height="1053" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969433" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -554,15 +694,13 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3995633" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969433" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969433" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3995633" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -578,7 +716,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="5" />
+      <option name="time" value="9" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -587,133 +725,82 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/cs1302/linkedList/Node.java">
+    <entry file="file://$PROJECT_DIR$/src/lists/Node.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        <state relative-caret-position="135">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
-            <element signature="e#381#382#0" expanded="false" />
-            <element signature="e#412#413#0" expanded="false" />
-            <element signature="method#Node#2;class#Node#0" expanded="false" />
-            <element signature="e#470#471#0" expanded="false" />
-            <element signature="e#497#498#0" expanded="false" />
-            <element signature="e#537#538#0" expanded="false" />
-            <element signature="e#569#570#0" expanded="false" />
-            <element signature="e#598#599#0" expanded="false" />
-            <element signature="e#625#626#0" expanded="false" />
-            <element signature="e#663#664#0" expanded="false" />
-            <element signature="e#695#696#0" expanded="false" />
+            <element signature="method#Node#0;class#Node#0" expanded="false" />
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs1302/linkedList/TestNode.java">
+    <entry file="file://$PROJECT_DIR$/src/lists/DList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="method#getNode#0;class#TestNode#0" expanded="false" />
-            <element signature="method#removeNode#0;class#TestNode#0" expanded="false" />
-            <element signature="method#cloneList#0;class#TestNode#0" expanded="false" />
-            <element signature="method#findListSize#0;class#TestNode#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs1302/linkedList/Toolkit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs1302/linkedList/TestToolkit.java">
+    <entry file="file://$PROJECT_DIR$/src/lists/Node.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1809">
-          <caret line="67" column="35" selection-start-line="67" selection-start-column="35" selection-end-line="67" selection-end-column="35" />
+        <state relative-caret-position="378">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="method#Node#0;class#Node#0" expanded="false" />
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lists/test/Test01Constructor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs1302/linkedList/Node.java">
+    <entry file="file://$PROJECT_DIR$/src/lists/test/Test04Size.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-          <folding>
-            <element signature="e#381#382#0" expanded="false" />
-            <element signature="e#412#413#0" expanded="false" />
-            <element signature="method#Node#2;class#Node#0" expanded="false" />
-            <element signature="e#470#471#0" expanded="false" />
-            <element signature="e#497#498#0" expanded="false" />
-            <element signature="e#537#538#0" expanded="false" />
-            <element signature="e#569#570#0" expanded="false" />
-            <element signature="e#598#599#0" expanded="false" />
-            <element signature="e#625#626#0" expanded="false" />
-            <element signature="e#663#664#0" expanded="false" />
-            <element signature="e#695#696#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs1302/linkedList/TestNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="method#getNode#0;class#TestNode#0" expanded="false" />
-            <element signature="method#removeNode#0;class#TestNode#0" expanded="false" />
-            <element signature="method#cloneList#0;class#TestNode#0" expanded="false" />
-            <element signature="method#findListSize#0;class#TestNode#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs1302/linkedList/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-          <folding>
-            <element signature="e#381#382#0" expanded="false" />
-            <element signature="e#412#413#0" expanded="false" />
-            <element signature="method#Node#2;class#Node#0" expanded="false" />
-            <element signature="e#470#471#0" expanded="false" />
-            <element signature="e#497#498#0" expanded="false" />
-            <element signature="e#537#538#0" expanded="false" />
-            <element signature="e#569#570#0" expanded="false" />
-            <element signature="e#598#599#0" expanded="false" />
-            <element signature="e#625#626#0" expanded="false" />
-            <element signature="e#663#664#0" expanded="false" />
-            <element signature="e#695#696#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs1302/linkedList/TestNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-378">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding>
-            <element signature="method#getNode#0;class#TestNode#0" expanded="false" />
-            <element signature="method#removeNode#0;class#TestNode#0" expanded="false" />
-            <element signature="method#cloneList#0;class#TestNode#0" expanded="false" />
-            <element signature="method#findListSize#0;class#TestNode#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs1302/linkedList/Toolkit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        <state relative-caret-position="112">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs1302/linkedList/TestToolkit.java">
+    <entry file="file://$PROJECT_DIR$/src/lists/test/Test02AddAndGet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1809">
-          <caret line="67" column="35" selection-start-line="67" selection-start-column="35" selection-end-line="67" selection-end-column="35" />
+        <state relative-caret-position="675">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lists/test/AllTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lists/DList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1962">
+          <caret line="181" column="9" selection-start-line="181" selection-start-column="9" selection-end-line="181" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lists/TestDList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
