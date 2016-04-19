@@ -18,7 +18,8 @@ public class Node {
         data = initData;
     }
 
-    public Node() {}
+    public Node() {
+    }
 
     public Object getData() {
         return data;

@@ -2,47 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="37738644-a611-49d3-886f-15673b1a85f0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assign06-doubly-linked-lists.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/assign06-doubly-linked-lists/lists/DList.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/assign06-doubly-linked-lists/lists/DListG$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/assign06-doubly-linked-lists/lists/DListG$Node.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/assign06-doubly-linked-lists/lists/DListG.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/assign06-doubly-linked-lists/lists/DListV1$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/assign06-doubly-linked-lists/lists/DListV1$DListIterator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/assign06-doubly-linked-lists/lists/DListV1$Node.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/assign06-doubly-linked-lists/lists/DListV1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/assign06-doubly-linked-lists/lists/DListV2$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/assign06-doubly-linked-lists/lists/DListV2$Node.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/assign06-doubly-linked-lists/lists/DListV2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/assign06-doubly-linked-lists/lists/Node.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/assign06-doubly-linked-lists/lists/test/AllTests.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/assign06-doubly-linked-lists/lists/test/Preliminary.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/assign06-doubly-linked-lists/lists/test/Test01Constructor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/assign06-doubly-linked-lists/lists/test/Test02AddAndGet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/assign06-doubly-linked-lists/lists/test/Test03AddAndGet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/assign06-doubly-linked-lists/lists/test/Test04Size.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/assign06-doubly-linked-lists/lists/test/Test05Equals.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/assign06-doubly-linked-lists/lists/test/TestAddAndGet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/assign06-doubly-linked-lists/lists/test/TestConstructor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/assign06-doubly-linked-lists/lists/test/Tests.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assign06-doubly-linked-lists.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lists/DList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lists/Node.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lists/test/AllTests.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lists/test/Test01Constructor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lists/test/Test02AddAndGet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lists/test/Test03AddAndGet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lists/test/Test04Size.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lists/test/Test05Equals.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lists/test/Tests.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../W_03-28/CompareStudents/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../W_03-28/CompareStudents/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-18/pre-160415-linked-lists.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-18/pre-160415-linked-lists/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-18/pre-160415-linked-lists/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-18/pre-160415-linked-lists/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-18/pre-160415-linked-lists/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-18/pre-160415-linked-lists/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-18/pre-160415-linked-lists/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-18/pre-160415-linked-lists/pre-160415-linked-lists.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-18/pre-160415-linked-lists/src/cs1302/inClass/Node.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-18/pre-160415-linked-lists/src/cs1302/inClass/SomeNodes.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-18/pre-160415-linked-lists/src/cs1302/inClass/Toolkit.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-18/pre-160415-linked-lists/src/cs1302/inClass/TryToolkit.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-18/pre-160415-linked-lists/src/cs1302/linkedList/Node.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-18/pre-160415-linked-lists/src/cs1302/linkedList/SimpleList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-18/pre-160415-linked-lists/src/cs1302/linkedList/SimpleList_v1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-18/pre-160415-linked-lists/src/cs1302/linkedList/Toolkit.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-18/pre-160415-linked-lists/src/cs1302/linkedList/UseLists.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-18/pre-160415-linked-lists/src/cs1302/linkedList/test/AllTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-18/pre-160415-linked-lists/src/cs1302/linkedList/test/Preliminary.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-18/pre-160415-linked-lists/src/cs1302/linkedList/test/Test01Constructor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-18/pre-160415-linked-lists/src/cs1302/linkedList/test/Test02AddAndGet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-18/pre-160415-linked-lists/src/cs1302/linkedList/test/Test03AddAndGet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-18/pre-160415-linked-lists/src/cs1302/linkedList/test/Test04Size.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-18/pre-160415-linked-lists/src/cs1302/linkedList/test/Test05Equals.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-18/pre-160415-linked-lists/src/cs1302/linkedList/test/Tests.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../lab-160411-linked-list/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../lab-160411-linked-list/.idea/workspace.xml" />
     </list>
     <ignored path="assign06-doubly-linked-lists.iws" />
@@ -79,20 +64,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DList.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="DList.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/lists/DList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1962">
+            <state relative-caret-position="643">
               <caret line="181" column="9" selection-start-line="181" selection-start-column="9" selection-end-line="181" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestDList.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TestDList.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lists/TestDList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
+            <state relative-caret-position="189">
               <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
@@ -173,8 +158,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -239,6 +222,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -679,13 +664,11 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969433" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -694,13 +677,15 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3995633" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969433" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3995633" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -725,6 +710,34 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/lists/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="method#Node#0;class#Node#0" expanded="false" />
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lists/DList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4887">
+          <caret line="181" column="9" selection-start-line="181" selection-start-column="9" selection-end-line="181" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lists/TestDList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/lists/Node.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -789,18 +802,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lists/DList.java">
+    <entry file="file://$PROJECT_DIR$/src/lists/TestDList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1962">
-          <caret line="181" column="9" selection-start-line="181" selection-start-column="9" selection-end-line="181" selection-end-column="9" />
+        <state relative-caret-position="189">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lists/TestDList.java">
+    <entry file="file://$PROJECT_DIR$/src/lists/DList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="643">
+          <caret line="181" column="9" selection-start-line="181" selection-start-column="9" selection-end-line="181" selection-end-column="9" />
           <folding />
         </state>
       </provider>
