@@ -5,11 +5,13 @@ package cs1302.linkedList;
  */
 public class TestSimpleList {
     public static void main(String[] args) {
-        manualAdd();
-        System.out.println();
-        arrayAdd();
-        System.out.println();
-        emptyTest();
+//        manualAdd();
+//        System.out.println();
+//        arrayAdd();
+//        System.out.println();
+//        emptyTest();
+//        System.out.println();
+        forEachArr();
     }
     private static void manualAdd() {
         Node head = new Node(24);
@@ -56,6 +58,10 @@ public class TestSimpleList {
                 list.toString(),
                 printArray(listToArr));
     }
+    private static void forEachArr() {
+        SimpleList list = new SimpleList(new Object[] {1,2,3});
+        System.out.println(forEachPrint(list));
+    }
     private static String printArray(Object[] arr) {
         StringBuilder sb = new StringBuilder("[");
         for(int i=0; i<arr.length; ++i) {
@@ -65,6 +71,15 @@ public class TestSimpleList {
             }
         }
 
+        sb.append("]");
+        return sb.toString();
+    }
+    private static String forEachPrint(SimpleList list) {
+        StringBuilder sb = new StringBuilder("[");
+        for(Node n : list) {
+            sb.append(n.getData());
+            sb.append(" ");
+        }
         sb.append("]");
         return sb.toString();
     }

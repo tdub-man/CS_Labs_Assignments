@@ -5,11 +5,13 @@ import java.util.Iterator;
 /**
  * Created by tanner on 4/19/16.
  */
-public class SimpleList {
+public class SimpleList implements Iterable<Node> {
     private class NodeIter implements Iterator {
         private Node current;
 
-        public NodeIter(){}
+        public NodeIter(){
+            reset();
+        }
 
         public Node peek() {
             return current;
@@ -40,13 +42,15 @@ public class SimpleList {
 
     public SimpleList(){
         iter = new NodeIter();
-        iter.reset();
     }
     public SimpleList(Object[] items) {
         iter = new NodeIter();
         for(int i=0; i<items.length; ++i) {
             this.add(i,items[i]);
         }
+    }
+    public Iterator iterator() {
+        return new NodeIter();
     }
 
     public int size() {
