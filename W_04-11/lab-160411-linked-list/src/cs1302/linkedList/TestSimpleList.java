@@ -5,12 +5,12 @@ package cs1302.linkedList;
  */
 public class TestSimpleList {
     public static void main(String[] args) {
-//        manualAdd();
-//        System.out.println();
-//        arrayAdd();
-//        System.out.println();
-//        emptyTest();
-//        System.out.println();
+        manualAdd();
+        System.out.println();
+        arrayAdd();
+        System.out.println();
+        emptyTest();
+        System.out.println();
         forEachArr();
     }
     private static void manualAdd() {
