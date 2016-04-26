@@ -11,28 +11,31 @@ public class TestDList {
         System.out.println("Size: " + list.size());
 
         list.add(0,42);
-        System.out.println("Size: " + list.size());
+        System.out.print("Size " + list.size() + ": ");
         printList(list);
 
         list.add(0,21);
         list.add(0,12.5);
-        System.out.println("Size: " + list.size());
+        System.out.print("Size " + list.size() + ": ");
         printList(list);
 
         list.remove(0);
-        System.out.println("Size: " + list.size());
+        System.out.print("Size " + list.size() + ": ");
         printList(list);
 
         list.set(0,0);
         list.set(1,1);
+        System.out.print("Size " + list.size() + ": ");
         printList(list);
 
-        System.out.println(list.toString());
+        System.out.println("toString: " + list.toString());
 
         for(int i = 2; i<10; ++i) {
             list.add(list.size(),i);
         }
-        System.out.println(list.toString());
+        System.out.println("toString: " + list.toString());
+
+
     }
 
     private static void printList(DList list) {

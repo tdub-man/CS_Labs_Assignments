@@ -133,14 +133,17 @@ public class DList {
         else if(!(obj instanceof DList))
             // if obj is not a DList, then it cannot be equal to 'this'
             return false;
+        else if(this.size() == 0 && ((DList) obj).size() == 0) {
+            return true;
+        }
         else {
             // cast since we know obj is a DList
             DList dl = (DList)obj;
             // prepare to compare nodes
-            Node p = this.base;
-            Node q = dl.base;
+            Node p = this.base.getNext();
+            Node q = dl.base.getNext();
             // stop if either list is exhausted
-            while(p != this.base && q != dl.base) {
+            do {
                 // compare the data
                 if(!p.getData().equals(q.getData()))
                     // if data in current node not equal, the lists are not equal
@@ -151,10 +154,10 @@ public class DList {
                     p = p.getNext();
                     q = q.getNext();
                 }
-            }
+            } while(p != this.base && q != dl.base);
             // All nodes checked are equal, otherwise we would have returned false already
             // Now just make sure both lists have been completely examined
-            return p == this.base && q == dl.base;
+            return (p == this.base && q == dl.base);
         }
     }
 
@@ -167,8 +170,6 @@ public class DList {
         } while(p != base);
         return true;
     }
-
-
 
     @Override
     public String toString() {

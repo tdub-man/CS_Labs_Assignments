@@ -93,17 +93,17 @@ public class SimpleListGeneric<E> implements Iterable<NodeGeneric<E>> {
     public void append(E element) {
         add(size(),element);
     }
-    public Object remove(int index) {
+    public E remove(int index) {
         if (index < 0 || index >= size()) {
             throw new IndexOutOfBoundsException("remove index out of bounds: " + index);
         } else if (index == 0) {
-            Object rtval = head.getData();
+            E rtval = head.getData();
             head = ToolkitGeneric.headRemove(head);
             iter.reset();
             return rtval;
         } else {
             NodeGeneric<E> n = ToolkitGeneric.locate(head, index - 1);
-            Object rtval = n.getLink().getData();
+            E rtval = n.getLink().getData();
             ToolkitGeneric.remove(n);
             return rtval;
         }
@@ -123,7 +123,7 @@ public class SimpleListGeneric<E> implements Iterable<NodeGeneric<E>> {
     }
 
     public Object[] toArray() {
-        Object[] arr = new Object[size()]; // Cast for generic?
+        Object[] arr = new Object[size()];
         int index = 0;
         while(iter.hasNext()) {
             arr[index] = iter.next().getData();

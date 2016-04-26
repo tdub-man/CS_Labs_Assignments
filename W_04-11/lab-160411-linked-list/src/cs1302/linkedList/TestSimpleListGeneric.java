@@ -1,11 +1,13 @@
 package cs1302.linkedList;
 
+import java.util.ArrayList;
+
 /**
  * Created by tanner on 4/21/16.
  */
 public class TestSimpleListGeneric {
     public static void main(String[] args) {
-        intTest();
+//        intTest();
         stringTest();
     }
     private static void intTest() {
@@ -29,14 +31,20 @@ public class TestSimpleListGeneric {
         System.out.println("Sum: " + sum);
     }
     private static void stringTest() {
-        SimpleListGeneric<String> slgString = new SimpleListGeneric<>(
-                new String[] {"Abel, Baker, Charlie"});
-        System.out.println(slgString.toString());
+        String[] strArr = {"Abel" , "Baker", "Charlie"};
+        SimpleListGeneric<String> slgString = new SimpleListGeneric<>(strArr);
+        System.out.printf("Size %d: %s\n",
+                slgString.size(),slgString.toString());
 
         slgString.append("Daniel");
         slgString.append("Ellie");
         slgString.append("Fred");
-        System.out.println(slgString.toArray()[0]);
+        System.out.printf("Size %d: %s\n",
+                slgString.size(),slgString.toString());
+
+        System.out.println("Removed " + slgString.remove(3));
+        System.out.printf("Size %d: %s\n",
+                slgString.size(),slgString.toString());
     }
 
     private static String printArray(Object[] arr) {
