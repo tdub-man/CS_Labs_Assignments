@@ -1,61 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="37738644-a611-49d3-886f-15673b1a85f0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-25/pre-160321-expression-evaluator.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-25/pre-160321-expression-evaluator/out/production/pre-160321-expression-evaluator/inClass/Calculator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-25/pre-160321-expression-evaluator/out/production/pre-160321-expression-evaluator/inClass/Interpreter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-25/pre-160321-expression-evaluator/out/production/pre-160321-expression-evaluator/inClass/tryCalcluator2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-25/pre-160321-expression-evaluator/out/production/pre-160321-expression-evaluator/inClass/tryCalcluator3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-25/pre-160321-expression-evaluator/out/production/pre-160321-expression-evaluator/inClass/tryCalcluator4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-25/pre-160321-expression-evaluator/out/production/pre-160321-expression-evaluator/inClass/tryCalculator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-25/pre-160321-expression-evaluator/out/production/pre-160321-expression-evaluator/rpn/Calculator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-25/pre-160321-expression-evaluator/out/production/pre-160321-expression-evaluator/rpn/Interpreter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-25/pre-160321-expression-evaluator/out/production/pre-160321-expression-evaluator/rpn/test/JAllTests.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-25/pre-160321-expression-evaluator/out/production/pre-160321-expression-evaluator/rpn/test/JTestCalculator1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-25/pre-160321-expression-evaluator/out/production/pre-160321-expression-evaluator/rpn/test/JTestInterpreter1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-25/pre-160321-expression-evaluator/out/production/pre-160321-expression-evaluator/rpnCommand/Calculator$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-25/pre-160321-expression-evaluator/out/production/pre-160321-expression-evaluator/rpnCommand/Calculator$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-25/pre-160321-expression-evaluator/out/production/pre-160321-expression-evaluator/rpnCommand/Calculator$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-25/pre-160321-expression-evaluator/out/production/pre-160321-expression-evaluator/rpnCommand/Calculator$4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-25/pre-160321-expression-evaluator/out/production/pre-160321-expression-evaluator/rpnCommand/Calculator$5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-25/pre-160321-expression-evaluator/out/production/pre-160321-expression-evaluator/rpnCommand/Calculator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-25/pre-160321-expression-evaluator/out/production/pre-160321-expression-evaluator/rpnCommand/CalculatorCommands_v1$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-25/pre-160321-expression-evaluator/out/production/pre-160321-expression-evaluator/rpnCommand/CalculatorCommands_v1$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-25/pre-160321-expression-evaluator/out/production/pre-160321-expression-evaluator/rpnCommand/CalculatorCommands_v1$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-25/pre-160321-expression-evaluator/out/production/pre-160321-expression-evaluator/rpnCommand/CalculatorCommands_v1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-25/pre-160321-expression-evaluator/out/production/pre-160321-expression-evaluator/rpnCommand/Calculator_v1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-25/pre-160321-expression-evaluator/out/production/pre-160321-expression-evaluator/rpnCommand/Command.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-25/pre-160321-expression-evaluator/out/production/pre-160321-expression-evaluator/rpnCommand/Command_v1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-25/pre-160321-expression-evaluator/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-25/pre-160321-expression-evaluator/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-25/pre-160321-expression-evaluator/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-25/pre-160321-expression-evaluator/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-25/pre-160321-expression-evaluator/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-25/pre-160321-expression-evaluator/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-25/pre-160321-expression-evaluator/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-25/pre-160321-expression-evaluator/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-25/pre-160321-expression-evaluator/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-25/pre-160321-expression-evaluator/pre-160321-expression-evaluator.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-25/pre-160321-expression-evaluator/src/rpnBigInt/Calculator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-25/pre-160321-expression-evaluator/src/rpnBigInt/Interpreter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-25/pre-160321-expression-evaluator/src/rpnBigInt/tryCalcluator2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-25/pre-160321-expression-evaluator/src/rpnBigInt/tryCalcluator3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-25/pre-160321-expression-evaluator/src/rpnBigInt/tryCalcluator4.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-25/pre-160321-expression-evaluator/src/rpnBigInt/tryCalculator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-25/pre-160321-expression-evaluator/src/rpnDouble/Calculator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-25/pre-160321-expression-evaluator/src/rpnDouble/Interpreter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-25/pre-160321-expression-evaluator/src/rpnDouble/test/JAllTests.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-25/pre-160321-expression-evaluator/src/rpnDouble/test/JTestCalculator1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../W_04-25/pre-160321-expression-evaluator/src/rpnDouble/test/JTestInterpreter1.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/assign06-doubly-linked-lists/lists/test/AllTests.class" afterPath="$PROJECT_DIR$/out/production/assign06-doubly-linked-lists/lists/test/AllTests.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/assign06-doubly-linked-lists/lists/test/Test05Equals.class" afterPath="$PROJECT_DIR$/out/production/assign06-doubly-linked-lists/lists/test/Test05Equals.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../W_03-28/CompareStudents/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../W_03-28/CompareStudents/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lists/test/AllTests.java" afterPath="$PROJECT_DIR$/src/lists/test/AllTests.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lists/test/Test05Equals.java" afterPath="$PROJECT_DIR$/src/lists/test/Test05Equals.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../lab-160411-linked-list/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../lab-160411-linked-list/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="37738644-a611-49d3-886f-15673b1a85f0" name="Default" comment="" />
     <ignored path="assign06-doubly-linked-lists.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -175,6 +121,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -240,7 +187,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -684,32 +630,32 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="73" y="27" width="1847" height="1053" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969433" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34170306" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24985994" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24985994" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3995633" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969433" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34170306" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3995633" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -734,6 +680,25 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/lists/NodeGeneric.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lists/DListGeneric.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#397#398#0" expanded="true" />
+            <element signature="e#433#434#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/lists/NodeGeneric.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
@@ -1159,7 +1124,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="999">
           <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
